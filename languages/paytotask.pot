@@ -1,0 +1,120 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: PayToTask Payment Gateway\n"
+"POT-Creation-Date: 2022-10-24 21:11+0600\n"
+"PO-Revision-Date: 2022-10-24 21:11+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: paytotask-payment-gateway.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: paytotask-payment-gateway.php:75 paytotask-payment-gateway.php:120
+msgid "PayToTask"
+msgstr ""
+
+#: paytotask-payment-gateway.php:76
+msgid "Accept payments through credit card."
+msgstr ""
+
+#: paytotask-payment-gateway.php:102
+msgid "Reconnect your paytotask Account"
+msgstr ""
+
+#: paytotask-payment-gateway.php:104
+msgid "Connect your paytotask Account"
+msgstr ""
+
+#: paytotask-payment-gateway.php:110
+msgid "Enable/Disable"
+msgstr ""
+
+#: paytotask-payment-gateway.php:112
+msgid "Enable"
+msgstr ""
+
+#: paytotask-payment-gateway.php:117
+msgid "Title"
+msgstr ""
+
+#: paytotask-payment-gateway.php:119
+msgid ""
+"This controls the title for the payment method the customer sees during "
+"checkout."
+msgstr ""
+
+#: paytotask-payment-gateway.php:125
+msgid "Vendor ID"
+msgstr ""
+
+#: paytotask-payment-gateway.php:127
+msgid "Get User ID."
+msgstr ""
+
+#: paytotask-payment-gateway.php:131
+msgid "API Key"
+msgstr ""
+
+#: paytotask-payment-gateway.php:133
+msgid "Get API Key."
+msgstr ""
+
+#: paytotask-payment-gateway.php:136
+msgid "Description"
+msgstr ""
+
+#: paytotask-payment-gateway.php:138
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: paytotask-payment-gateway.php:139
+msgid ""
+"Pay using Visa, Mastercard, Maestro, American Express, Discover, Diners "
+"Club, JCB, UnionPay or Mada"
+msgstr ""
+
+#: paytotask-payment-gateway.php:200
+msgid ""
+"Something went wrong getting checkout url. Check if gateway is integrated."
+msgstr ""
+
+#: paytotask-payment-gateway.php:210
+msgid "PayToTask error. Unable to complete payment - order "
+msgstr ""
+
+#: paytotask-payment-gateway.php:210
+msgid " does not exist"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PayToTask Payment Gateway"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://github.com/ittihadsoft/paytotask-payment-gateway-for-woocommerce"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "PayToTask is woocommerce payment gateway"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ittihadsoft"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://ittihadsoft.net"
+msgstr ""
